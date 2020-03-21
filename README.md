@@ -85,11 +85,13 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 11.  Check for the towing eye under the frunk mat.
+- [ ] 11.  Check for the towing eye under the frunk mat. Check if tow cover comes off easily.
 - [ ] 12.  Ensure door windows auto-close completely when doors are closed.
 - [ ] 13.  Check for front license plate bracket (if applicable in your state).
 - [ ] 14.  Check all front and rear exterior lights for signs of internal condensation.
 - [ ] 15.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
+- [ ] 16. All 4 valve stem covers on tires
+- [ ] 17. Both key cards work on the B-pillar
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
@@ -101,13 +103,23 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 - [ ] 7.  Check all seat belts for proper operation.
 - [ ] 8.  Check the rear seats for proper fold-down operation.
 - [ ] 9.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
+    - 2 tweeter speaker on the doors (by the rearview mirrors)
+    - 2 mid range speaker above in the front
+    - 2 bass speakers on the bottom of the front doors
+    - 2 mid speakers on the back doors
+    - 2 mid speakers on the top of the trunk subwoofer inside the trunk,
+right side
 - [ ] 10.  Test the steering wheel position controls to ensure proper operation.
 - [ ] 11.  Press the center of the steering wheel to make sure the car's horn works.
 - [ ] 12.  Test the windshield wipers.
 - [ ] 13.  Test the rear view camera.
-- [ ] 14.  Check side mirrors for proper operation of folding and position adjustment.
+- [ ] 14.  Check side mirrors for proper operation of folding and position adjustment. minimal noise
 - [ ] 15.  Check sunvisor operation and mirror condition.
 - [ ] 16.  Check the rear view mirror for any warping or distortion.
+- [ ] 17.  Make sure AC/Heat works at full power without strange noises
+- [ ] 18.  All 4 USB outlets & 12 volt DC receptacle have power
+- [ ] 19.  Microphone picks up good audio (call a friend with the Model 3 dialer)
+
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
@@ -140,10 +152,11 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 - [ ] 1.  Check charge port door for proper operation.
 - [ ] 2.  Check charge port indicator light.
 - [ ] 3.  Ensure vehicle will accept a charge.
-- [ ] 4.  Check mobile charging kit. Test it to ensure it works.
+- [ ] 4.  Check mobile charging kit. Test it to ensure it works (Charge, latch, and unlatch).
     -  J1772 adapter.
 	-  NEMA 5-15 120v adapter.
 	-  Mobile Connector with cable.
+- [ ] 5. Make sure both AC and DC plugs work (test at a supercharger on-site)
 	
 ## SECTION F - Verify region-specific equipment
 - [ ] 1.  Maryland deliveries should include Tesla's official inflation kit.
